@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**oluwati-seyi/oluwati-seyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- Here are some ideas to get you started:-->
+
+- 🔭 I’m currently working on building my technical skill on data science 
+- 🌱 I’m currently learning data science at Future Academy Africa, and NG30 days of learning
+- 👯 I’m looking to collaborate on everything Data science and projects
+- 🤔 I’m looking for help with breaking down technical concepts
+- 💬 Ask me about learning journey
+<!-- 📫 How to reach me: -->
+- 😄 Pronouns: (HE/HIM/HIS)
+- ⚡ Fun fact: I play musical instruments
+
